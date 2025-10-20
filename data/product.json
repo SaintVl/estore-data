@@ -36,7 +36,7 @@
     "shortDescription": "Флагманский смартфон с OLED-дисплеем и высокой скоростью.",
     "description": "6.5\" OLED 120 Гц, 256 ГБ, 8 ГБ RAM, 4800 мА·ч, камеры 50+12+10 Мп, 5G, NFC, защита IP68.",
     "images": [
-      https://raw.githubusercontent.com/SaintVl/estore-data/main/smartphone.png"
+      "https://raw.githubusercontent.com/SaintVl/estore-data/main/smartphone.png"
     ],
     "categories": ["Смартфоны"],
     "tags": ["oled", "120hz", "camera", "5g"],
